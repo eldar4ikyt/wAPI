@@ -1,0 +1,5 @@
+name: wAPI
+version: 1.0
+author: WinLocker
+main: ru.winlocker.wapi.ApiMainPlugin
+depend: [ProtocolLib]
