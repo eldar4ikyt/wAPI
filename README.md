@@ -1,5 +1,5 @@
 # wAPI
-# API for using bukkit plugins
+API for using bukkit plugins
 
 ### Maven dependency
 ```xml
